@@ -1,0 +1,5 @@
+CEO: Diane Wee
+CTO: Max Dama
+CFO: Whajoon Cho
+
+Lead Engineer: Vinay Kinger 
